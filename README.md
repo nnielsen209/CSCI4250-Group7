@@ -32,6 +32,9 @@ The system evaluates your outfit based on:
 - **Fit and Proportion**: How well your clothes fit
 - **Accessories**: Completeness of your look
 
+## Artifial Intelligence
+Artifical Intelligence was utilized in the creating a prototype to work around and improve on later. There are still future additions to be made, artifial intelliegence is not being used to view the photos being uploaded. 
+
 ## Browser Compatibility
 
 Works on all modern browsers including:
